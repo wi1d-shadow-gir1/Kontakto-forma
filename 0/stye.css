@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div{
+    outline: 2px dashed blue;
+    width: 45%;
+    height: 60vh;
+    display: inline-block;
+    vertical-align: top;
+    margin:20px;
+}
+body{
+    text-align: center;
+}
+forma{
+    width: 100%;
+    height: auto;
+}
+input, textarea{
+    width:100%;
+    padding: 20px;
+    
+}
